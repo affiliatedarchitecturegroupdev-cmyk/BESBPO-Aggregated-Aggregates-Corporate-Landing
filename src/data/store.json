@@ -1,10 +1,10 @@
 {
   "generatedAt": "2026-10-19",
-  "storeCommit": "cecffb4",
+  "storeCommit": "d7ffcd1",
   "storeUrl": "https://aaggregates.store",
   "totals": {
     "products": 1401,
-    "buyOnline": 211,
+    "buyOnline": 250,
     "fromPrice": 3.01,
     "departments": 19,
     "categories": 54,
@@ -378,7 +378,7 @@
       "blurb": "Interior, exterior, stable and security doors, garage doors, steel frames, the full steel and wooden window schedules, aluminium windows and sliding doors.",
       "storePath": "/doors-windows",
       "products": 113,
-      "buyOnline": 7,
+      "buyOnline": 12,
       "fromPrice": 279.72,
       "categories": [
         {
@@ -387,8 +387,8 @@
           "description": "Interior, exterior, stable, glazed, fire and security doors in the standard 813 × 2032 mm size, pivot doors, aluminium and wooden sliding doors, garage doors, and steel door frames for half- and full-brick walls.",
           "storePath": "/products?category=doors-frames",
           "products": 42,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 1,
+          "fromPrice": 588.6
         },
         {
           "slug": "windows-frames",
@@ -396,7 +396,7 @@
           "description": "SANS 727 steel windows in the F7 and FX7 profiles, the full wooden window schedule, and top-hung, obscure-glass and bronze aluminium windows from 600 to 2,100 mm with sidelights.",
           "storePath": "/products?category=windows-frames",
           "products": 71,
-          "buyOnline": 7,
+          "buyOnline": 11,
           "fromPrice": 279.72
         }
       ]
@@ -408,7 +408,7 @@
       "blurb": "Diamond, welded and clear-view mesh, palisade, razor and electric fencing, Y-standards, gates, gate motors and burglar bars.",
       "storePath": "/fencing-security",
       "products": 78,
-      "buyOnline": 9,
+      "buyOnline": 12,
       "fromPrice": 36.67,
       "categories": [
         {
@@ -417,7 +417,7 @@
           "description": "Diamond, PVC-coated, welded and clear-view mesh from 0.9 to 2.4 m, wire netting, galvanised, barbed and razor wire, Y-standards, straining posts, droppers, palisade panels and posts, and electric fencing.",
           "storePath": "/products?category=fencing-wire-posts",
           "products": 47,
-          "buyOnline": 9,
+          "buyOnline": 12,
           "fromPrice": 36.67
         },
         {
@@ -438,8 +438,8 @@
       "blurb": "Water tanks from 250 to 10,000 L, septic tanks, electric and solar geysers, Polycop, copper, HDPE and uPVC pressure pipe, valves and fittings.",
       "storePath": "/water-plumbing",
       "products": 91,
-      "buyOnline": 6,
-      "fromPrice": 37.75,
+      "buyOnline": 29,
+      "fromPrice": 4.21,
       "categories": [
         {
           "slug": "water-tanks-geysers",
@@ -447,8 +447,8 @@
           "description": "Vertical, slimline and horizontal water tanks from 250 to 10,000 L, septic tanks, electric geysers from 50 to 250 L, solar geysers, and geyser elements, valves and installation kits.",
           "storePath": "/products?category=water-tanks-geysers",
           "products": 31,
-          "buyOnline": 1,
-          "fromPrice": 6007.99
+          "buyOnline": 7,
+          "fromPrice": 194.35
         },
         {
           "slug": "water-supply-soil-pipe",
@@ -456,8 +456,8 @@
           "description": "Polycop hot- and cold-water pipe, Class 0 copper tube and fittings, gate and ball valves, HDPE water pipe, Class 9 and 12 uPVC pressure pipe, and soil, vent and waste pipe.",
           "storePath": "/products?category=water-supply-soil-pipe",
           "products": 60,
-          "buyOnline": 5,
-          "fromPrice": 37.75
+          "buyOnline": 22,
+          "fromPrice": 4.21
         }
       ]
     },
@@ -468,7 +468,7 @@
       "blurb": "Gypsum, fibre-cement and PVC ceiling boards, drywall partition board, cornices, skimming plaster — with ceiling insulation from roofing.",
       "storePath": "/ceilings-drywall",
       "products": 64,
-      "buyOnline": 8,
+      "buyOnline": 10,
       "fromPrice": 63.72,
       "categories": [
         {
@@ -477,7 +477,7 @@
           "description": "RhinoBoard, standard, moisture-resistant and fire-rated gypsum board, fibre-cement and PVC ceiling boards, gypsum, Rhino and polystyrene cornice, drywall studs and tracks, RhinoLite and cornice adhesive.",
           "storePath": "/products?category=ceilings-drywall",
           "products": 64,
-          "buyOnline": 8,
+          "buyOnline": 10,
           "fromPrice": 63.72
         }
       ]
@@ -489,8 +489,8 @@
       "blurb": "Trowels, levels, hammers, shovels, wheelbarrows and grinders — hard hats, boots, gloves, harnesses, first aid and site signage.",
       "storePath": "/tools-ppe",
       "products": 76,
-      "buyOnline": 6,
-      "fromPrice": 43.19,
+      "buyOnline": 11,
+      "fromPrice": 18.25,
       "categories": [
         {
           "slug": "site-tools",
@@ -498,7 +498,7 @@
           "description": "Trowels, floats, levels, tape measures, hammers, bolsters, picks and crowbars, shovels and spades, wheelbarrows, mixing tubs, tile cutters, grinders, blades and drill bits.",
           "storePath": "/products?category=site-tools",
           "products": 45,
-          "buyOnline": 5,
+          "buyOnline": 6,
           "fromPrice": 43.19
         },
         {
@@ -507,8 +507,8 @@
           "description": "Hard hats, reflective vests and jackets, safety boots and gumboots, gloves, glasses, goggles, dust masks and respirators, hearing protection, harnesses, first-aid kits, fire extinguishers, signage and barriers.",
           "storePath": "/products?category=ppe-site-safety",
           "products": 31,
-          "buyOnline": 1,
-          "fromPrice": 48.55
+          "buyOnline": 5,
+          "fromPrice": 18.25
         }
       ]
     },
@@ -519,7 +519,7 @@
       "blurb": "Sealants, torch-on and liquid waterproofing, membranes and primers — interior, exterior, roof, floor and metal paint.",
       "storePath": "/paint-waterproofing",
       "products": 54,
-      "buyOnline": 7,
+      "buyOnline": 8,
       "fromPrice": 59.35,
       "categories": [
         {
@@ -528,7 +528,7 @@
           "description": "Silicone, acrylic and polyurethane sealants, expanding foam, bitumen and liquid waterproofing, torch-on and reinforcing membrane, primers, flashing tape, damp-proofing liquid and joint fillers.",
           "storePath": "/products?category=waterproofing-sealants",
           "products": 25,
-          "buyOnline": 3,
+          "buyOnline": 4,
           "fromPrice": 59.35
         },
         {
