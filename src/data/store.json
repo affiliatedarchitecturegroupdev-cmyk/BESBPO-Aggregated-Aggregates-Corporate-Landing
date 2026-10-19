@@ -1,10 +1,10 @@
 {
   "generatedAt": "2026-10-19",
-  "storeCommit": "f07bef4",
+  "storeCommit": "cecffb4",
   "storeUrl": "https://aaggregates.store",
   "totals": {
     "products": 1401,
-    "buyOnline": 147,
+    "buyOnline": 211,
     "fromPrice": 3.01,
     "departments": 19,
     "categories": 54,
@@ -114,8 +114,8 @@
       "blurb": "Bagged and bulk cement, grout and admixtures, and ready-mix concrete by the mixer truck.",
       "storePath": "/cement",
       "products": 69,
-      "buyOnline": 14,
-      "fromPrice": 96.57,
+      "buyOnline": 21,
+      "fromPrice": 41.04,
       "categories": [
         {
           "slug": "cement-hydraulic-binders",
@@ -123,8 +123,8 @@
           "description": "Cement from PPC, AfriSam, Sephaku, Cemza, NPC, Afrimat and more — 32,5N to 52,5R, masonry and road-stabilising — by the bag, bulk bag or tanker.",
           "storePath": "/products?category=cement-hydraulic-binders",
           "products": 38,
-          "buyOnline": 9,
-          "fromPrice": 96.57
+          "buyOnline": 10,
+          "fromPrice": 91.8
         },
         {
           "slug": "mortars-grouts-admixtures",
@@ -132,8 +132,8 @@
           "description": "Structural non-shrink grout, tile adhesives and grouts, premixed plaster and screed, bonding liquids, repair mortar, curing compound and bulk concrete admixtures.",
           "storePath": "/products?category=mortars-grouts-admixtures",
           "products": 24,
-          "buyOnline": 1,
-          "fromPrice": 267.73
+          "buyOnline": 7,
+          "fromPrice": 41.04
         },
         {
           "slug": "ready-mix-concrete",
@@ -549,8 +549,8 @@
       "blurb": "Surfix and house wire, conduit, distribution boards and breakers, switches, sockets and LED lighting, and solar panels, inverters and batteries.",
       "storePath": "/electrical",
       "products": 105,
-      "buyOnline": 0,
-      "fromPrice": null,
+      "buyOnline": 41,
+      "fromPrice": 7.13,
       "categories": [
         {
           "slug": "electrical-cable-conduit",
@@ -558,8 +558,8 @@
           "description": "SANS 1507 Surfix twin-and-earth and single-core house wire from 1.5 to 16 mm², armoured cable, flex, earth wire, PVC conduit and fittings, wall boxes and trunking.",
           "storePath": "/products?category=electrical-cable-conduit",
           "products": 40,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 18,
+          "fromPrice": 7.13
         },
         {
           "slug": "electrical-distribution",
@@ -567,8 +567,8 @@
           "description": "Surface, flush and weatherproof distribution boards, circuit breakers from 10 to 63 A, earth leakage, RCBOs, surge arresters, isolators, geyser timers and earth spikes.",
           "storePath": "/products?category=electrical-distribution",
           "products": 24,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 12,
+          "fromPrice": 53.89
         },
         {
           "slug": "switches-sockets-lighting",
@@ -576,8 +576,8 @@
           "description": "Switches, dimmers and SANS 164 plug sockets, LED globes, downlights, battens, bulkheads, floodlights and emergency lights.",
           "storePath": "/products?category=switches-sockets-lighting",
           "products": 25,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 8,
+          "fromPrice": 21.06
         },
         {
           "slug": "solar-backup-power",
@@ -585,8 +585,8 @@
           "description": "Solar panels from 400 to 550 W, hybrid and backup inverters, lithium batteries, roof mounting kits, PV cable, connectors, DC isolators and changeover switches.",
           "storePath": "/products?category=solar-backup-power",
           "products": 16,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 3,
+          "fromPrice": 59.29
         }
       ]
     },
@@ -597,8 +597,8 @@
       "blurb": "Ceramic and porcelain floor and wall tiles, laminate and vinyl flooring, skirting, tile trims and levelling — with adhesives and grouts from cement.",
       "storePath": "/tiles-flooring",
       "products": 41,
-      "buyOnline": 0,
-      "fromPrice": null,
+      "buyOnline": 3,
+      "fromPrice": 20.41,
       "categories": [
         {
           "slug": "floor-wall-tiles",
@@ -624,8 +624,8 @@
           "description": "Aluminium and PVC tile trims, stair nosings and reducers, spacers, levelling systems, notched trowels, grout floats, tile cutters, grout sealer and shower drains.",
           "storePath": "/products?category=tiling-accessories",
           "products": 15,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 3,
+          "fromPrice": 20.41
         }
       ]
     },
@@ -636,8 +636,8 @@
       "blurb": "Toilets, basins, baths and showers, taps and mixers, valves and connectors, kitchen sinks, traps and wastes.",
       "storePath": "/bathroom-kitchen",
       "products": 50,
-      "buyOnline": 0,
-      "fromPrice": null,
+      "buyOnline": 4,
+      "fromPrice": 46.33,
       "categories": [
         {
           "slug": "sanitaryware",
@@ -654,8 +654,8 @@
           "description": "Basin, bath, shower and kitchen taps and mixers, shower heads and rail kits, angle valves, braided connectors, stopcocks, pressure-reducing valves, vacuum breakers and cistern valves.",
           "storePath": "/products?category=taps-mixers-valves",
           "products": 18,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 4,
+          "fromPrice": 46.33
         },
         {
           "slug": "kitchen-sinks-waste",
@@ -675,8 +675,8 @@
       "blurb": "Nails, screws, wall plugs, anchors, bolts and threaded rod, and locks, hinges, handles, padlocks and door hardware.",
       "storePath": "/hardware-fasteners",
       "products": 53,
-      "buyOnline": 0,
-      "fromPrice": null,
+      "buyOnline": 6,
+      "fromPrice": 34.45,
       "categories": [
         {
           "slug": "fasteners-fixings",
@@ -684,8 +684,8 @@
           "description": "Wire and masonry nails, chipboard and wood screws, wall plugs, sleeve and wedge anchors, hex bolts, threaded rod, self-drilling screws, frame fixings and staples.",
           "storePath": "/products?category=fasteners-fixings",
           "products": 33,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 5,
+          "fromPrice": 156.6
         },
         {
           "slug": "locks-ironmongery",
@@ -693,8 +693,8 @@
           "description": "Mortice, cylinder and bathroom locksets, door handles, butt and concealed hinges, tower bolts, padbolts and padlocks, door closers and stops, window stays, cupboard handles and sliding door gear.",
           "storePath": "/products?category=locks-ironmongery",
           "products": 20,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 1,
+          "fromPrice": 34.45
         }
       ]
     },
@@ -705,8 +705,8 @@
       "blurb": "Shutterply and shutterboard, plywood, OSB, chipboard, MDF and Masonite, and steel props, formwork ties, clamps and scaffolding.",
       "storePath": "/boards-formwork",
       "products": 30,
-      "buyOnline": 0,
-      "fromPrice": null,
+      "buyOnline": 3,
+      "fromPrice": 240.79,
       "categories": [
         {
           "slug": "boards-sheets",
@@ -714,8 +714,8 @@
           "description": "Film-faced shutterply and pine shutterboard, pine and marine plywood, OSB 3, chipboard, melamine, SupaWood (MDF), Masonite and fibre-cement boards — by the sheet.",
           "storePath": "/products?category=boards-sheets",
           "products": 16,
-          "buyOnline": 0,
-          "fromPrice": null
+          "buyOnline": 3,
+          "fromPrice": 240.79
         },
         {
           "slug": "formwork-scaffolding",
