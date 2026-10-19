@@ -47,7 +47,7 @@ export const BUSINESS_LINES = [
     key: "supplies",
     eyebrow: "Building supplies",
     title: "Everything that finishes the job",
-    body: "Doors and windows, fencing and security, water tanks and plumbing, ceilings and drywall, site tools and PPE, waterproofing and paint.",
+    body: "Doors and windows, fencing, plumbing, bathrooms and kitchens, electrical and solar, ceilings, tiles and flooring, hardware, boards and formwork, tools, PPE and paint.",
     storePath: "/departments",
   },
   {
@@ -172,6 +172,11 @@ export const DEPARTMENT_ICONS: Record<string, string> = {
   "ceilings-drywall": "PanelTop",
   "tools-ppe": "HardHat",
   "paint-waterproofing": "PaintRoller",
+  electrical: "Zap",
+  "tiles-flooring": "Grid2x2",
+  "bathroom-kitchen": "Bath",
+  "hardware-fasteners": "Wrench",
+  "boards-formwork": "Layers",
 };
 
 /** Department groups, the way the build goes up. */
@@ -179,6 +184,7 @@ export const DEPARTMENT_GROUPS = [
   { label: "Ground & structure", slugs: ["aggregates", "cement-concrete", "steel", "walling", "paving", "drainage"] },
   { label: "Roof", slugs: ["roofing", "timber"] },
   { label: "Building supplies", slugs: ["doors-windows", "fencing-security", "water-plumbing", "ceilings-drywall", "tools-ppe", "paint-waterproofing"] },
+  { label: "Services & fit-out", slugs: ["electrical", "tiles-flooring", "bathroom-kitchen", "hardware-fasteners", "boards-formwork"] },
 ] as const;
 
 /** Photography used only on the corporate site (from the original corporate site), credited like the store's. */
