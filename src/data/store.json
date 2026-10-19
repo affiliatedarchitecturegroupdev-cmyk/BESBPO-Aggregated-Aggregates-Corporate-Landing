@@ -1,0 +1,1310 @@
+{
+  "generatedAt": "2026-10-19",
+  "storeCommit": "72668aa",
+  "storeUrl": "https://aaggregates.store",
+  "totals": {
+    "products": 1122,
+    "buyOnline": 147,
+    "fromPrice": 3.01,
+    "departments": 14,
+    "categories": 40,
+    "plant": 18,
+    "services": 11,
+    "coverageTowns": 192,
+    "provinces": 9
+  },
+  "departments": [
+    {
+      "slug": "aggregates",
+      "name": "Aggregates & Sand",
+      "shortName": "Aggregates & Sand",
+      "blurb": "Sub-base, crushed stone, sand, crusher run, ballast, drainage and decorative stone — bulk or bagged.",
+      "storePath": "/products?group=core",
+      "products": 51,
+      "buyOnline": 51,
+      "fromPrice": 24.19,
+      "categories": [
+        {
+          "slug": "sub-base-base-course",
+          "name": "Sub-Base & Base Course",
+          "description": "G1–G10 graded gravels and fill for road and foundation layers.",
+          "storePath": "/products?category=sub-base-base-course",
+          "products": 10,
+          "buyOnline": 10,
+          "fromPrice": 212.4
+        },
+        {
+          "slug": "crushed-stone",
+          "name": "Crushed Stone",
+          "description": "SANS 1083 crushed stone from 6.7mm to 53mm, plus crusher dust.",
+          "storePath": "/products?category=crushed-stone",
+          "products": 11,
+          "buyOnline": 11,
+          "fromPrice": 400
+        },
+        {
+          "slug": "sand-fine-aggregates",
+          "name": "Sand & Fine Aggregates",
+          "description": "River, plaster, building, concrete, screeding and silica sand.",
+          "storePath": "/products?category=sand-fine-aggregates",
+          "products": 8,
+          "buyOnline": 8,
+          "fromPrice": 24.19
+        },
+        {
+          "slug": "crusher-run-road-building",
+          "name": "Crusher Run & Road-Building",
+          "description": "COLTO/TRH14 crusher run, rip rap and gabion stone.",
+          "storePath": "/products?category=crusher-run-road-building",
+          "products": 4,
+          "buyOnline": 4,
+          "fromPrice": 224.2
+        },
+        {
+          "slug": "ballast-rail",
+          "name": "Ballast & Rail",
+          "description": "Ferrocrete ballast, rail ballast and ballast mix.",
+          "storePath": "/products?category=ballast-rail",
+          "products": 3,
+          "buyOnline": 3,
+          "fromPrice": 256.2
+        },
+        {
+          "slug": "drainage-filter",
+          "name": "Drainage & Filter",
+          "description": "French drain, filter media and subsoil drainage stone.",
+          "storePath": "/products?category=drainage-filter",
+          "products": 5,
+          "buyOnline": 5,
+          "fromPrice": 390
+        },
+        {
+          "slug": "decorative-landscaping",
+          "name": "Decorative & Landscaping",
+          "description": "River pebble, pea gravel and decorative stone, bulk or bagged.",
+          "storePath": "/products?category=decorative-landscaping",
+          "products": 4,
+          "buyOnline": 4,
+          "fromPrice": 41.23
+        },
+        {
+          "slug": "agricultural-industrial",
+          "name": "Agricultural & Industrial",
+          "description": "Calcitic, dolomitic and hydrated lime.",
+          "storePath": "/products?category=agricultural-industrial",
+          "products": 3,
+          "buyOnline": 3,
+          "fromPrice": 51.98
+        },
+        {
+          "slug": "recycled-sustainable",
+          "name": "Recycled & Sustainable",
+          "description": "Recycled concrete, brick and asphalt planings.",
+          "storePath": "/products?category=recycled-sustainable",
+          "products": 3,
+          "buyOnline": 3,
+          "fromPrice": 103.5
+        }
+      ]
+    },
+    {
+      "slug": "cement-concrete",
+      "name": "Cement & Concrete",
+      "shortName": "Cement & Concrete",
+      "blurb": "Bagged and bulk cement, grout and admixtures, and ready-mix concrete by the mixer truck.",
+      "storePath": "/cement",
+      "products": 69,
+      "buyOnline": 14,
+      "fromPrice": 96.57,
+      "categories": [
+        {
+          "slug": "cement-hydraulic-binders",
+          "name": "Cement & Hydraulic Binders",
+          "description": "Cement from PPC, AfriSam, Sephaku, Cemza, NPC, Afrimat and more — 32,5N to 52,5R, masonry and road-stabilising — by the bag, bulk bag or tanker.",
+          "storePath": "/products?category=cement-hydraulic-binders",
+          "products": 38,
+          "buyOnline": 9,
+          "fromPrice": 96.57
+        },
+        {
+          "slug": "mortars-grouts-admixtures",
+          "name": "Mortars, Grouts & Admixtures",
+          "description": "Structural non-shrink grout, tile adhesives and grouts, premixed plaster and screed, bonding liquids, repair mortar, curing compound and bulk concrete admixtures.",
+          "storePath": "/products?category=mortars-grouts-admixtures",
+          "products": 24,
+          "buyOnline": 1,
+          "fromPrice": 267.73
+        },
+        {
+          "slug": "ready-mix-concrete",
+          "name": "Ready-Mix Concrete",
+          "description": "SANS 878 ready-mixed concrete from 10 to 40 MPa, delivered by mixer truck in full loads — pump hire on request.",
+          "storePath": "/products?category=ready-mix-concrete",
+          "products": 7,
+          "buyOnline": 4,
+          "fromPrice": 1055.7
+        }
+      ]
+    },
+    {
+      "slug": "steel",
+      "name": "Steel & Reinforcing",
+      "shortName": "Steel",
+      "blurb": "Rebar, mesh, brickforce and fixing accessories; angles, channels, I-beams, tube, plate and sheet — plus cut & bend.",
+      "storePath": "/reinforcing-steel",
+      "products": 151,
+      "buyOnline": 11,
+      "fromPrice": 54,
+      "categories": [
+        {
+          "slug": "reinforcing-bar",
+          "name": "Reinforcing Bar (Rebar)",
+          "description": "SANS 920 high-tensile Y-bar and mild-steel R-bar, 8 to 40 mm — by the 6 m or 12 m length or by the tonne.",
+          "storePath": "/products?category=reinforcing-bar",
+          "products": 12,
+          "buyOnline": 4,
+          "fromPrice": 56.7
+        },
+        {
+          "slug": "mesh-brickforce",
+          "name": "Mesh & Brickforce",
+          "description": "SANS 1024 welded mesh from Ref 100 to Ref 888 in 6.0 x 2.4 m sheets, and brickforce rolls for masonry.",
+          "storePath": "/products?category=mesh-brickforce",
+          "products": 10,
+          "buyOnline": 4,
+          "fromPrice": 54
+        },
+        {
+          "slug": "steel-fixing-accessories",
+          "name": "Steel Fixing Accessories",
+          "description": "Tie wire, bar chairs, high chairs and spacers, cover blocks, safety caps, couplers, dowels, starter bars, wall ties, hoop iron, anchor bolts and chemical anchors.",
+          "storePath": "/products?category=steel-fixing-accessories",
+          "products": 15,
+          "buyOnline": 1,
+          "fromPrice": 194.29
+        },
+        {
+          "slug": "structural-steel",
+          "name": "Structural Steel",
+          "description": "Equal and unequal angles, flat, round and square bar, square, rectangular and round tube, IPE beams, UB and UC sections, PFC and lipped channels, plate, sheet, checker plate and expanded mesh — by the length or tonne.",
+          "storePath": "/products?category=structural-steel",
+          "products": 114,
+          "buyOnline": 2,
+          "fromPrice": 258.12
+        }
+      ]
+    },
+    {
+      "slug": "walling",
+      "name": "Bricks, Blocks & Walling",
+      "shortName": "Bricks & Blocks",
+      "blurb": "Clay face, NFX and stock bricks, cement bricks, hollow, solid and U-blocks, lintels from 0.9 to 6.6 m, DPC and air bricks.",
+      "storePath": "/bricks-blocks",
+      "products": 81,
+      "buyOnline": 8,
+      "fromPrice": 10.93,
+      "categories": [
+        {
+          "slug": "bricks-blocks",
+          "name": "Bricks & Blocks",
+          "description": "SANS 227 clay stock, face, NFX, semi-face and plaster bricks and SANS 1215 cement bricks by the 1,000, brick cladding, and hollow, solid, half, U and fair-face concrete blocks from 90 to 190 mm.",
+          "storePath": "/products?category=bricks-blocks",
+          "products": 26,
+          "buyOnline": 4,
+          "fromPrice": 10.93
+        },
+        {
+          "slug": "lintels-dpc-wall-accessories",
+          "name": "Lintels, DPC & Wall Accessories",
+          "description": "Prestressed concrete lintels from 0.9 to 6.6 m in 110 mm, maxi 140 mm and wide 150 mm sections, block lintels, SANS 952 damp-proof course from 110 to 600 mm, and air bricks.",
+          "storePath": "/products?category=lintels-dpc-wall-accessories",
+          "products": 55,
+          "buyOnline": 4,
+          "fromPrice": 31.96
+        }
+      ]
+    },
+    {
+      "slug": "paving",
+      "name": "Paving & Retaining",
+      "shortName": "Paving",
+      "blurb": "Concrete and clay pavers, slabs, cobbles, kerbs and edging, Terraforce and gravity retaining blocks, gabions and Reno mattresses.",
+      "storePath": "/paving",
+      "products": 51,
+      "buyOnline": 3,
+      "fromPrice": 3.01,
+      "categories": [
+        {
+          "slug": "paving-kerbs-edging",
+          "name": "Paving, Kerbs & Edging",
+          "description": "SANS 1058 concrete pavers in 50 to 80 mm and four colours, clay pavers, paving slabs, garden pavers, cobbles and stepping stones, grass blocks, garden edging, SANS 927 road kerbs and channel blocks.",
+          "storePath": "/products?category=paving-kerbs-edging",
+          "products": 34,
+          "buyOnline": 3,
+          "fromPrice": 3.01
+        },
+        {
+          "slug": "retaining-erosion-control",
+          "name": "Retaining & Erosion Control",
+          "description": "Terraforce L11, 4x4 and segmental retaining blocks, smooth and rock-face gravity blocks, gabion baskets and Reno mattresses for walls, slopes and channels.",
+          "storePath": "/products?category=retaining-erosion-control",
+          "products": 17,
+          "buyOnline": 0,
+          "fromPrice": null
+        }
+      ]
+    },
+    {
+      "slug": "drainage",
+      "name": "Drainage & Membranes",
+      "shortName": "Drainage",
+      "blurb": "Sewer pipe 110–250 mm and fittings, concrete pipes to 1,200 mm, manholes and channels, DPM, geotextile and geogrid.",
+      "storePath": "/drainage",
+      "products": 74,
+      "buyOnline": 5,
+      "fromPrice": 63.49,
+      "categories": [
+        {
+          "slug": "pipes-fittings",
+          "name": "Pipes & Fittings",
+          "description": "uPVC Class 34 sewer and drain pipe from 110 to 250 mm in 6 m lengths, bends, junctions, couplers, inspection eyes, gullies, vent valves and perforated subsoil drain pipe.",
+          "storePath": "/products?category=pipes-fittings",
+          "products": 33,
+          "buyOnline": 3,
+          "fromPrice": 63.49
+        },
+        {
+          "slug": "precast-drainage",
+          "name": "Precast Drainage",
+          "description": "SANS 677 concrete pipes from 300 to 1,200 mm, manhole rings, slabs, bases and covers, catch pits, kerb and grid inlets, channel drains, U- and V-drains, portal culverts and headwalls.",
+          "storePath": "/products?category=precast-drainage",
+          "products": 29,
+          "buyOnline": 0,
+          "fromPrice": null
+        },
+        {
+          "slug": "geosynthetics-membranes",
+          "name": "Geosynthetics & Membranes",
+          "description": "SABS damp-proof membrane in 250 and 375 µm, construction film, nonwoven and woven geotextiles, weed-control fabric, geogrid, geocell, erosion-control blankets and drainage composite.",
+          "storePath": "/products?category=geosynthetics-membranes",
+          "products": 12,
+          "buyOnline": 2,
+          "fromPrice": 199.8
+        }
+      ]
+    },
+    {
+      "slug": "roofing",
+      "name": "Roofing",
+      "shortName": "Roofing",
+      "blurb": "IBR, corrugated and concealed-fix sheeting, concrete roof tiles, flashings, insulation and gutters.",
+      "storePath": "/roofing",
+      "products": 87,
+      "buyOnline": 9,
+      "fromPrice": 10.48,
+      "categories": [
+        {
+          "slug": "roof-sheeting",
+          "name": "Roof Sheeting",
+          "description": "IBR, corrugated and concealed-fix sheets from 0.30 to 0.80 mm — galvanised, Zincalume® or colour-coated — in standard lengths or cut to length.",
+          "storePath": "/products?category=roof-sheeting",
+          "products": 15,
+          "buyOnline": 3,
+          "fromPrice": 294.97
+        },
+        {
+          "slug": "roof-flashings-fixings",
+          "name": "Flashings, Ridges & Fixings",
+          "description": "Ridge capping, barge, valley, apron and eaves flashings, closures, concealed-fix clips, roofing screws, washers and hook bolts, fascia boards, translucent polycarbonate sheets and whirlybird ventilators.",
+          "storePath": "/products?category=roof-flashings-fixings",
+          "products": 26,
+          "buyOnline": 1,
+          "fromPrice": 21.59
+        },
+        {
+          "slug": "roof-insulation-rainwater",
+          "name": "Insulation, Underlay & Rainwater",
+          "description": "Glass-wool and polyester ceiling insulation from 50 to 145 mm, foil underlay, under-tile membrane and insulation board, and PVC, aluminium and galvanised gutters, downpipes and fittings.",
+          "storePath": "/products?category=roof-insulation-rainwater",
+          "products": 30,
+          "buyOnline": 3,
+          "fromPrice": 166.27
+        },
+        {
+          "slug": "concrete-roof-tiles",
+          "name": "Concrete Roof Tiles",
+          "description": "SANS 542 Double Roman, flat and slate-profile concrete roof tiles in several colours and finishes, with ridge, hip, verge and gable tiles, vents, clips and nails.",
+          "storePath": "/products?category=concrete-roof-tiles",
+          "products": 16,
+          "buyOnline": 2,
+          "fromPrice": 10.48
+        }
+      ]
+    },
+    {
+      "slug": "timber",
+      "name": "Roof & Structural Timber",
+      "shortName": "Timber",
+      "blurb": "S5 and S7 SA pine, H2 or H3, in 3.0 to 6.6 m lengths — with hangers, clips and fixings.",
+      "storePath": "/roofing#roof-timber",
+      "products": 82,
+      "buyOnline": 3,
+      "fromPrice": 72.28,
+      "categories": [
+        {
+          "slug": "structural-timber",
+          "name": "Roof & Structural Timber",
+          "description": "SA pine from 38 × 38 mm brandering to 50 × 228 mm beams — S5 or S7, H2 or H3, sized or rough-sawn, in lengths from 3.0 to 6.6 m.",
+          "storePath": "/products?category=structural-timber",
+          "products": 72,
+          "buyOnline": 3,
+          "fromPrice": 72.28
+        },
+        {
+          "slug": "timber-connectors",
+          "name": "Timber Connectors & Accessories",
+          "description": "Truss and joist hangers, truss clips, hoop iron, galvanised nails and bolts, cut-end preservative and fibre-cement fascia.",
+          "storePath": "/products?category=timber-connectors",
+          "products": 10,
+          "buyOnline": 0,
+          "fromPrice": null
+        }
+      ]
+    },
+    {
+      "slug": "doors-windows",
+      "name": "Doors, Windows & Frames",
+      "shortName": "Doors & Windows",
+      "blurb": "Interior, exterior, stable and security doors, garage doors, steel frames, the full steel and wooden window schedules, aluminium windows and sliding doors.",
+      "storePath": "/doors-windows",
+      "products": 113,
+      "buyOnline": 7,
+      "fromPrice": 279.72,
+      "categories": [
+        {
+          "slug": "doors-frames",
+          "name": "Doors & Door Frames",
+          "description": "Interior, exterior, stable, glazed, fire and security doors in the standard 813 × 2032 mm size, pivot doors, aluminium and wooden sliding doors, garage doors, and steel door frames for half- and full-brick walls.",
+          "storePath": "/products?category=doors-frames",
+          "products": 42,
+          "buyOnline": 0,
+          "fromPrice": null
+        },
+        {
+          "slug": "windows-frames",
+          "name": "Windows & Window Frames",
+          "description": "SANS 727 steel windows in the F7 and FX7 profiles, the full wooden window schedule, and top-hung, obscure-glass and bronze aluminium windows from 600 to 2,100 mm with sidelights.",
+          "storePath": "/products?category=windows-frames",
+          "products": 71,
+          "buyOnline": 7,
+          "fromPrice": 279.72
+        }
+      ]
+    },
+    {
+      "slug": "fencing-security",
+      "name": "Fencing & Security",
+      "shortName": "Fencing",
+      "blurb": "Diamond, welded and clear-view mesh, palisade, razor and electric fencing, Y-standards, gates, gate motors and burglar bars.",
+      "storePath": "/fencing-security",
+      "products": 78,
+      "buyOnline": 9,
+      "fromPrice": 36.67,
+      "categories": [
+        {
+          "slug": "fencing-wire-posts",
+          "name": "Fencing, Wire & Posts",
+          "description": "Diamond, PVC-coated, welded and clear-view mesh from 0.9 to 2.4 m, wire netting, galvanised, barbed and razor wire, Y-standards, straining posts, droppers, palisade panels and posts, and electric fencing.",
+          "storePath": "/products?category=fencing-wire-posts",
+          "products": 47,
+          "buyOnline": 9,
+          "fromPrice": 36.67
+        },
+        {
+          "slug": "gates-security",
+          "name": "Gates & Security",
+          "description": "Diamond-mesh, palisade and steel swing and sliding gates, trellis and doorway security gates, gate motors, rollers and track, and diamond and brick-pattern burglar bars.",
+          "storePath": "/products?category=gates-security",
+          "products": 31,
+          "buyOnline": 0,
+          "fromPrice": null
+        }
+      ]
+    },
+    {
+      "slug": "water-plumbing",
+      "name": "Water Storage & Plumbing",
+      "shortName": "Water & Plumbing",
+      "blurb": "Water tanks from 250 to 10,000 L, septic tanks, electric and solar geysers, Polycop, copper, HDPE and uPVC pressure pipe, valves and fittings.",
+      "storePath": "/water-plumbing",
+      "products": 91,
+      "buyOnline": 6,
+      "fromPrice": 37.75,
+      "categories": [
+        {
+          "slug": "water-tanks-geysers",
+          "name": "Water Tanks & Geysers",
+          "description": "Vertical, slimline and horizontal water tanks from 250 to 10,000 L, septic tanks, electric geysers from 50 to 250 L, solar geysers, and geyser elements, valves and installation kits.",
+          "storePath": "/products?category=water-tanks-geysers",
+          "products": 31,
+          "buyOnline": 1,
+          "fromPrice": 6007.99
+        },
+        {
+          "slug": "water-supply-soil-pipe",
+          "name": "Water Supply & Soil Pipe",
+          "description": "Polycop hot- and cold-water pipe, Class 0 copper tube and fittings, gate and ball valves, HDPE water pipe, Class 9 and 12 uPVC pressure pipe, and soil, vent and waste pipe.",
+          "storePath": "/products?category=water-supply-soil-pipe",
+          "products": 60,
+          "buyOnline": 5,
+          "fromPrice": 37.75
+        }
+      ]
+    },
+    {
+      "slug": "ceilings-drywall",
+      "name": "Ceilings, Drywall & Insulation",
+      "shortName": "Ceilings",
+      "blurb": "Gypsum, fibre-cement and PVC ceiling boards, drywall partition board, cornices, skimming plaster — with ceiling insulation from roofing.",
+      "storePath": "/ceilings-drywall",
+      "products": 64,
+      "buyOnline": 8,
+      "fromPrice": 63.72,
+      "categories": [
+        {
+          "slug": "ceilings-drywall",
+          "name": "Ceilings, Drywall & Cornice",
+          "description": "RhinoBoard, standard, moisture-resistant and fire-rated gypsum board, fibre-cement and PVC ceiling boards, gypsum, Rhino and polystyrene cornice, drywall studs and tracks, RhinoLite and cornice adhesive.",
+          "storePath": "/products?category=ceilings-drywall",
+          "products": 64,
+          "buyOnline": 8,
+          "fromPrice": 63.72
+        }
+      ]
+    },
+    {
+      "slug": "tools-ppe",
+      "name": "Site Tools, PPE & Consumables",
+      "shortName": "Tools & PPE",
+      "blurb": "Trowels, levels, hammers, shovels, wheelbarrows and grinders — hard hats, boots, gloves, harnesses, first aid and site signage.",
+      "storePath": "/tools-ppe",
+      "products": 76,
+      "buyOnline": 6,
+      "fromPrice": 43.19,
+      "categories": [
+        {
+          "slug": "site-tools",
+          "name": "Site Tools & Consumables",
+          "description": "Trowels, floats, levels, tape measures, hammers, bolsters, picks and crowbars, shovels and spades, wheelbarrows, mixing tubs, tile cutters, grinders, blades and drill bits.",
+          "storePath": "/products?category=site-tools",
+          "products": 45,
+          "buyOnline": 5,
+          "fromPrice": 43.19
+        },
+        {
+          "slug": "ppe-site-safety",
+          "name": "PPE & Site Safety",
+          "description": "Hard hats, reflective vests and jackets, safety boots and gumboots, gloves, glasses, goggles, dust masks and respirators, hearing protection, harnesses, first-aid kits, fire extinguishers, signage and barriers.",
+          "storePath": "/products?category=ppe-site-safety",
+          "products": 31,
+          "buyOnline": 1,
+          "fromPrice": 48.55
+        }
+      ]
+    },
+    {
+      "slug": "paint-waterproofing",
+      "name": "Waterproofing, Sealants & Paint",
+      "shortName": "Paint & Waterproofing",
+      "blurb": "Sealants, torch-on and liquid waterproofing, membranes and primers — interior, exterior, roof, floor and metal paint.",
+      "storePath": "/paint-waterproofing",
+      "products": 54,
+      "buyOnline": 7,
+      "fromPrice": 59.35,
+      "categories": [
+        {
+          "slug": "waterproofing-sealants",
+          "name": "Waterproofing & Sealants",
+          "description": "Silicone, acrylic and polyurethane sealants, expanding foam, bitumen and liquid waterproofing, torch-on and reinforcing membrane, primers, flashing tape, damp-proofing liquid and joint fillers.",
+          "storePath": "/products?category=waterproofing-sealants",
+          "products": 25,
+          "buyOnline": 3,
+          "fromPrice": 59.35
+        },
+        {
+          "slug": "paint-coatings",
+          "name": "Paint & Coatings",
+          "description": "Interior PVA and acrylics, exterior, textured and roof paint, primers and undercoats, enamels, wood sealer and varnish, floor, paving and road-marking paint, thinners and painting tools.",
+          "storePath": "/products?category=paint-coatings",
+          "products": 29,
+          "buyOnline": 4,
+          "fromPrice": 302.35
+        }
+      ]
+    }
+  ],
+  "plant": [
+    {
+      "name": "TLB 4x4 (90hp class)",
+      "class": "TLBs"
+    },
+    {
+      "name": "Mini Excavator 1.7t",
+      "class": "Excavators"
+    },
+    {
+      "name": "Mini Excavator 3t",
+      "class": "Excavators"
+    },
+    {
+      "name": "Excavator 5t",
+      "class": "Excavators"
+    },
+    {
+      "name": "Excavator 8t",
+      "class": "Excavators"
+    },
+    {
+      "name": "Excavator 14t",
+      "class": "Excavators"
+    },
+    {
+      "name": "Excavator 20t",
+      "class": "Excavators"
+    },
+    {
+      "name": "Excavator 30t",
+      "class": "Excavators"
+    },
+    {
+      "name": "Tipper Truck 6m³",
+      "class": "Tipper trucks"
+    },
+    {
+      "name": "Tipper Truck 10m³",
+      "class": "Tipper trucks"
+    },
+    {
+      "name": "Tipper Truck 34t (side or rear tipper)",
+      "class": "Tipper trucks"
+    },
+    {
+      "name": "Roller 1–3t (compactor)",
+      "class": "Rollers"
+    },
+    {
+      "name": "Smooth-Drum Roller 8–12t",
+      "class": "Rollers"
+    },
+    {
+      "name": "Padfoot Roller 12t",
+      "class": "Rollers"
+    },
+    {
+      "name": "Skid-Steer Loader",
+      "class": "Skid steers"
+    },
+    {
+      "name": "Wheel Loader",
+      "class": "Wheel loaders"
+    },
+    {
+      "name": "Site Dumper",
+      "class": "Site dumpers"
+    },
+    {
+      "name": "Water Truck",
+      "class": "Water trucks"
+    }
+  ],
+  "hireRegions": [
+    "Eastern Cape",
+    "Free State",
+    "Gauteng",
+    "KwaZulu-Natal",
+    "Limpopo",
+    "Mpumalanga",
+    "North West",
+    "Northern Cape",
+    "Western Cape"
+  ],
+  "services": [
+    {
+      "name": "Tipper Haulage — 6m³ Load",
+      "description": "Per tipper load. Move aggregates, soil or spoil between points; cart pricing inside the delivery distance bands, quote beyond."
+    },
+    {
+      "name": "Tipper Haulage — 10m³ Load",
+      "description": "Per tipper load, larger trucks for bulk material."
+    },
+    {
+      "name": "Tipper with Driver — Per Day",
+      "description": "Tipper truck with driver and fuel for the day, for repeated runs."
+    },
+    {
+      "name": "Rubble Removal — 6m³ Load",
+      "description": "Per tipper load of clean rubble; licensed disposal and weighbridge slip included. Mixed or hazardous waste is quoted or declined."
+    },
+    {
+      "name": "Rubble Removal — 10m³ Load",
+      "description": "Per tipper load of clean rubble, larger trucks; licensed disposal and weighbridge slip included."
+    },
+    {
+      "name": "Skip Bin — 6m³",
+      "description": "Per skip: hire period plus one collection; size and rate to be confirmed with partners."
+    },
+    {
+      "name": "Skip Bin — 12m³",
+      "description": "Per skip: hire period plus one collection; size and rate to be confirmed with partners."
+    },
+    {
+      "name": "Site Clearing",
+      "description": "Per m² by vegetation density, from photos and a rough area; partner site visit for larger areas. Quote at launch."
+    },
+    {
+      "name": "Demolition",
+      "description": "Always quoted per job and subcontracted to vetted partners; competent person and method statement required. Asbestos excluded at launch."
+    },
+    {
+      "name": "Waste Management (Scheduled)",
+      "description": "Scheduled collection contracts, quoted after a site audit."
+    },
+    {
+      "name": "Steel Fixing (Labour)",
+      "description": "Fixing reinforcement on site to the engineer's drawings and bar bending schedule: placing and tying rebar and mesh, chairs and spacers for cover, laps and starter bars, ready for the engineer's inspection before the pour. Labour by vetted steel-fixing partners, priced per tonne fixed; the steel itself is ordered separately (stock lengths, mesh, or cut & bend)."
+    }
+  ],
+  "jobPacks": [
+    {
+      "slug": "foundation-and-slab",
+      "name": "Foundation & Slab",
+      "summary": "Clear, dig, bed and pour — one request for a house slab or small commercial floor.",
+      "lines": 6
+    },
+    {
+      "slug": "driveway-and-hardstand",
+      "name": "Driveway & Hardstand",
+      "summary": "Excavate, haul, build up the base layers and compact.",
+      "lines": 5
+    },
+    {
+      "slug": "drainage-and-soakaway",
+      "name": "Drainage & Soakaway",
+      "summary": "Trench, bed, fill with filter stone and finish.",
+      "lines": 4
+    },
+    {
+      "slug": "platform-and-site-prep",
+      "name": "Platform & Site Prep",
+      "summary": "Clear, strip, remove rubble, import fill and compact a building platform.",
+      "lines": 5
+    },
+    {
+      "slug": "demolition-to-fill",
+      "name": "Demolition to Fill",
+      "summary": "Quoted demolition, rubble hauled away, recycled aggregate back to site.",
+      "lines": 3
+    }
+  ],
+  "design": {
+    "disciplines": [
+      {
+        "key": "architectural",
+        "name": "Architectural",
+        "blurb": "Plans, council submissions and full design-and-site services for houses, additions and commercial buildings."
+      },
+      {
+        "key": "structural",
+        "name": "Structural engineering",
+        "blurb": "Foundations, slabs, frames, roofs and retaining walls designed, inspected and signed off."
+      },
+      {
+        "key": "civil",
+        "name": "Civil engineering",
+        "blurb": "Stormwater, drainage, paving and access roads for sites and developments."
+      },
+      {
+        "key": "compliance",
+        "name": "Compliance",
+        "blurb": "Energy, approvals and the paperwork that gets a building signed off."
+      },
+      {
+        "key": "quantities",
+        "name": "Quantities",
+        "blurb": "Bills of quantities and schedules that turn drawings into an order."
+      }
+    ],
+    "services": [
+      {
+        "slug": "house-plans",
+        "name": "House plans & council submission",
+        "discipline": "architectural"
+      },
+      {
+        "slug": "additions-alterations",
+        "name": "Additions & alterations",
+        "discipline": "architectural"
+      },
+      {
+        "slug": "full-architectural-service",
+        "name": "Full architectural service",
+        "discipline": "architectural"
+      },
+      {
+        "slug": "measured-as-built-drawings",
+        "name": "Measured as-built drawings",
+        "discipline": "architectural"
+      },
+      {
+        "slug": "plan-regularisation",
+        "name": "Plan regularisation",
+        "discipline": "architectural"
+      },
+      {
+        "slug": "structural-design",
+        "name": "Structural design",
+        "discipline": "structural"
+      },
+      {
+        "slug": "foundation-inspections",
+        "name": "Foundation inspections & completion certificate",
+        "discipline": "structural"
+      },
+      {
+        "slug": "structural-assessment",
+        "name": "Crack & structural assessment",
+        "discipline": "structural"
+      },
+      {
+        "slug": "retaining-wall-design",
+        "name": "Retaining wall design",
+        "discipline": "structural"
+      },
+      {
+        "slug": "steel-structure-design",
+        "name": "Steel & roof structure design",
+        "discipline": "structural"
+      },
+      {
+        "slug": "stormwater-drainage-design",
+        "name": "Stormwater & drainage design",
+        "discipline": "civil"
+      },
+      {
+        "slug": "roads-paving-design",
+        "name": "Roads, parking & paving design",
+        "discipline": "civil"
+      },
+      {
+        "slug": "energy-xa-design",
+        "name": "Energy (SANS 10400-XA) design",
+        "discipline": "compliance"
+      },
+      {
+        "slug": "bill-of-quantities",
+        "name": "Bill of quantities",
+        "discipline": "quantities"
+      },
+      {
+        "slug": "bar-bending-schedule",
+        "name": "Bar bending schedule",
+        "discipline": "quantities"
+      }
+    ]
+  },
+  "tiers": [
+    {
+      "name": "RETAIL",
+      "label": "Retail / Walk-in",
+      "discountPercent": 0,
+      "definition": "Small quantities, under 3m³ or 5 tons, no trade account"
+    },
+    {
+      "name": "CONTRACTOR_TRADE",
+      "label": "Contractor / Trade Account",
+      "discountPercent": 8,
+      "definition": "Registered trade account, regular repeat orders"
+    },
+    {
+      "name": "VOLUME_CIVIL_BULK",
+      "label": "Volume / Civil Bulk",
+      "discountPercent": 15,
+      "definition": "≥10m³ per delivery, or a standing supply agreement"
+    }
+  ],
+  "paymentMethods": [
+    {
+      "name": "Card (Visa / Mastercard / Amex)",
+      "category": "card",
+      "tradeOnly": false
+    },
+    {
+      "name": "Instant EFT",
+      "category": "eft",
+      "tradeOnly": false
+    },
+    {
+      "name": "Capitec Pay",
+      "category": "eft",
+      "tradeOnly": false
+    },
+    {
+      "name": "Apple Pay",
+      "category": "wallet",
+      "tradeOnly": false
+    },
+    {
+      "name": "Google Pay",
+      "category": "wallet",
+      "tradeOnly": false
+    },
+    {
+      "name": "Samsung Pay",
+      "category": "wallet",
+      "tradeOnly": false
+    },
+    {
+      "name": "SnapScan",
+      "category": "qr",
+      "tradeOnly": false
+    },
+    {
+      "name": "Zapper",
+      "category": "qr",
+      "tradeOnly": false
+    },
+    {
+      "name": "SCode",
+      "category": "store",
+      "tradeOnly": false
+    },
+    {
+      "name": "PayJustNow",
+      "category": "bnpl",
+      "tradeOnly": false
+    },
+    {
+      "name": "Payflex",
+      "category": "bnpl",
+      "tradeOnly": false
+    },
+    {
+      "name": "Mobicred",
+      "category": "bnpl",
+      "tradeOnly": false
+    },
+    {
+      "name": "MoreTyme",
+      "category": "bnpl",
+      "tradeOnly": false
+    },
+    {
+      "name": "Happy Pay",
+      "category": "bnpl",
+      "tradeOnly": false
+    },
+    {
+      "name": "Float",
+      "category": "bnpl",
+      "tradeOnly": false
+    },
+    {
+      "name": "Ozow",
+      "category": "eft",
+      "tradeOnly": false
+    },
+    {
+      "name": "Stitch",
+      "category": "eft",
+      "tradeOnly": false
+    },
+    {
+      "name": "Lulapay",
+      "category": "b2b",
+      "tradeOnly": true
+    },
+    {
+      "name": "EFT / Purchase Order",
+      "category": "manual",
+      "tradeOnly": true
+    },
+    {
+      "name": "LayUp lay-by",
+      "category": "bnpl",
+      "tradeOnly": false
+    },
+    {
+      "name": "Trade account (pay on terms)",
+      "category": "b2b",
+      "tradeOnly": true
+    }
+  ],
+  "express": {
+    "name": "AA 60/120",
+    "promiseMinutes": 120,
+    "radiusKm": 30,
+    "hours": "Monday to Saturday, 07:00 to 15:00"
+  },
+  "industries": [
+    {
+      "slug": "ready-mix-precast",
+      "name": "Ready-Mix & Precast Concrete Manufacturers",
+      "description": "Constant daily intake of stone aggregates, washed river sand, plaster sand, and bulk cement."
+    },
+    {
+      "slug": "asphalt-roadworks",
+      "name": "Asphalt Plants, Road Surfacing & Paving Specialists",
+      "description": "Crusher dust, G1–G5 crushed stone base course, aggregate chips, and road-capping binders."
+    },
+    {
+      "slug": "industrial-earthworks",
+      "name": "Industrial, Logistics Precinct & Earthworks Developers",
+      "description": "High-volume sub-base materials, rock for site stabilisation, drainage stone, and bulk cement for soil-cement stabilisation."
+    },
+    {
+      "slug": "mining-environmental",
+      "name": "Mining Infrastructure, Tailings & Environmental Remediation",
+      "description": "Rip rap, gabion stone, filter media, bulk lime, and road-capping gravel."
+    },
+    {
+      "slug": "municipal-water",
+      "name": "Municipalities, SANRAL Sub-Contractors & Water Infrastructure",
+      "description": "Bedding and filling sand, filter stone, G1 sub-base, and bulk supply for emergency storm repair."
+    },
+    {
+      "slug": "agricultural-landscaping",
+      "name": "Agricultural, Commercial Farming & Landscaping Developers",
+      "description": "Agricultural lime, drainage stone, farm-road sub-base gravel, and decorative stone and pebble."
+    }
+  ],
+  "groupCompanies": [
+    {
+      "name": "Affiliated Builders",
+      "url": "https://affiliatedbuilders.besbpo.co.za",
+      "tagline": "Building, from the ground up",
+      "services": [
+        "New builds and extensions",
+        "Foundations, slabs and structural work",
+        "Boundary walls and retaining structures",
+        "Driveways, paving and site works"
+      ]
+    },
+    {
+      "name": "Finishes Construction",
+      "url": "https://finishes.besbpo.co.za",
+      "tagline": "The finish that makes the build",
+      "services": [
+        "Plastering and screeding",
+        "Tiling and flooring",
+        "Painting and interior finishes",
+        "Landscaping and decorative stone features"
+      ]
+    }
+  ],
+  "sourcingBodies": [
+    {
+      "name": "ASPASA",
+      "fullName": "Aggregate and Sand Producers Association of Southern Africa",
+      "eyebrow": "Aggregate + sand producers",
+      "description": "ASPASA represents the quarries and sand producers behind South Africa's aggregate supply, and promotes health, safety, environmental and legal compliance across members' operations."
+    },
+    {
+      "name": "SABS / SANS",
+      "fullName": "South African Bureau of Standards",
+      "eyebrow": "Standards + conformity evidence",
+      "description": "SABS develops the South African National Standards our materials are graded against — SANS 1083 for concrete aggregate and SANS 1200 for sub-base and base course — and offers testing and certification."
+    },
+    {
+      "name": "SANAS",
+      "fullName": "South African National Accreditation System",
+      "eyebrow": "Accreditation infrastructure",
+      "description": "SANAS accredits the laboratories and certification bodies that test materials. It lets you trace who tested a material, and whether they're accredited for that test."
+    },
+    {
+      "name": "Concrete Society SA",
+      "fullName": "Concrete Society of Southern Africa",
+      "eyebrow": "Cement + concrete education",
+      "description": "The Concrete Society of Southern Africa shares technical knowledge on cement and concrete practice — including the difference between a cement type and a concrete mix."
+    },
+    {
+      "name": "SARF",
+      "fullName": "South African Road Federation",
+      "eyebrow": "Roads + pavement context",
+      "description": "The South African Road Federation brings together road engineering and pavement practice. Its context frames how G-grade sub-base and road-building materials are specified and used."
+    },
+    {
+      "name": "NHBRC",
+      "fullName": "National Home Builders Registration Council",
+      "eyebrow": "Home-builder registration",
+      "description": "NHBRC registration applies to businesses that build homes — not to every supplier of aggregates, sub-base or cement. We include it so home-builders know what to ask their contractor."
+    },
+    {
+      "name": "cidb",
+      "fullName": "Construction Industry Development Board",
+      "eyebrow": "Contractor registration",
+      "description": "cidb registration and grading apply to contractors and construction work. They don't certify a load of stone or a bag of cement."
+    },
+    {
+      "name": "B-BBEE Commission",
+      "fullName": "Broad-Based Black Economic Empowerment Commission",
+      "eyebrow": "Supplier + tender context",
+      "description": "B-BBEE credentials matter for trade accounts, tenders and procurement scoring, but they're separate from how a material performs."
+    }
+  ],
+  "faqs": {
+    "materials": [
+      {
+        "question": "Do you deliver, or do I collect?",
+        "answer": "We deliver from our approved partner-supplier network — quarries and plants across South Africa; we hold no stock of our own. Full tipper loads are included within 30km of the nearest partner supplier, carry a flat fee by load size from 30–100km, and are quoted individually beyond 100km."
+      },
+      {
+        "question": "What's the difference between buying by ton, m³ or bag?",
+        "answer": "Bulk aggregates convert live between tons and m³ using each material's bulk density, so a ton price and an m³ price describe the same rate. Bagged units carry a small premium over the bulk rate to cover bagging and handling — handy for smaller, DIY-scale orders."
+      },
+      {
+        "question": "What are the Retail, Contractor/Trade and Volume/Civil Bulk tiers?",
+        "answer": "Retail is standard list pricing. Contractor/Trade is an approved trade account: 8% off aggregates, 4% off bagged cement and 2% off ready-mix. Volume/Civil Bulk gets up to 15% off aggregates with purchase-order invoicing; its cement and ready-mix, and any order of 10m³ or more, are quoted with delivered pricing rather than priced online. No discount ever takes a price below our minimum margin, so on low-margin materials the saving can be a little smaller."
+      },
+      {
+        "question": "Why do some products say “Price on request”?",
+        "answer": "A few Bulk & Infrastructure lines — bulk-bag and tanker cement, 52.5N cement, road-capping binder and concrete admixtures — have no public market benchmark yet. Rather than guess, we confirm a supplier-backed price with you directly."
+      },
+      {
+        "question": "Can I order through WhatsApp?",
+        "answer": "Yes — for bagged and smaller Retail orders. Message us what you need and our team confirms price and delivery in the same chat. Bulk tonnage and Volume/Civil Bulk orders go through the quote request for accurate delivered pricing."
+      },
+      {
+        "question": "What payment methods do you accept?",
+        "answer": "Card, instant EFT, Capitec Pay, digital wallets, SnapScan and Zapper, SCode (pay in store with a barcode), buy-now-pay-later options, and — for approved trade accounts — Lulapay trade credit or EFT / purchase-order invoicing. The Ways to Pay page lists every method and its terms."
+      },
+      {
+        "question": "Do you supply compliance documentation?",
+        "answer": "Yes. Graded products carry their reference standard (SANS 1200-G, SANS 1083 or COLTO/TRH14). Reference documents are published on the product page, and batch-specific Certificates of Analysis are attached to your order record."
+      },
+      {
+        "question": "Which provinces do you deliver to?",
+        "answer": "Yes — we deliver across all nine provinces, from the approved partner supplier nearest your site. Check your town on our Where We Deliver page (/coverage); if it isn't listed, request a quote and we'll confirm."
+      },
+      {
+        "question": "How far is my site from your nearest supplier?",
+        "answer": "Use “Use my location” on the Delivery Areas page or any product calculator. It gives a straight-line estimate; road distance is confirmed when you order. Bagged delivery is priced within 30km (R350.00, free from 1 ton)."
+      }
+    ],
+    "projects": [
+      {
+        "question": "Can my company buy on credit?",
+        "answer": "Yes, once your trade account is approved. Your company's account administrator applies from My account → Trade credit with the limit and terms you need (7, 14, 30 or 60 days) and two trade references. We tell you our decision by email. Approved orders go on account at checkout — confirmed and delivered now, paid by the due date on your confirmation — while what you owe stays within your limit and nothing is overdue. AA 60/120 express orders can't go on account."
+      },
+      {
+        "question": "Can I send you my bill of quantities?",
+        "answer": "Yes. Upload it as an Excel workbook (.xlsx) or CSV on the BOQ upload page. We match each line to the catalogue and suggest a product; you confirm the matches, units and quantities, and send it as one quote request with your file attached. Lines we can't match are quoted as written. For a PDF bill of quantities, request a quote and email the PDF to our sales team."
+      },
+      {
+        "question": "Can you deliver my order in stages?",
+        "answer": "Yes. From your order's tracking page, choose Deliver in stages and split the order into deliveries on the dates you need them. The dates are requests: we confirm each one with the partner supplier. Each delivery leaves once what you've paid covers it and the ones before it, or straight away on a trade account. Additional deliveries may carry a delivery charge, which we agree with you first."
+      },
+      {
+        "question": "How do I know my delivery arrived?",
+        "answer": "The person receiving on site may be asked to sign for it on the driver's phone, give their name and note any shortage or damage; a photo of the delivery may be taken with it. We email you when a delivery is signed for, and it's kept with your order as the proof of delivery."
+      },
+      {
+        "question": "Can I pay a deposit, or pay later?",
+        "answer": "On larger orders you can pay a deposit to confirm the order at its prices and the balance before delivery. Lay-by spreads the cost before delivery, and for quoted and site orders our team can send a secure payment link with a proforma invoice. The Ways to Pay page has every option and its terms."
+      },
+      {
+        "question": "How long will my order take?",
+        "answer": "Where our partner suppliers have confirmed a usual lead time for a category, it shows on the product page, in your cart and at checkout. Lead times are estimates, not guaranteed delivery dates. For delivery within 2 hours on eligible orders, see AA 60/120."
+      },
+      {
+        "question": "I'm a supplier to Aggregated Aggregates — where do I see my orders?",
+        "answer": "In the supplier portal. Once our team links your login to your yard, you see the orders assigned to you to load — products, quantities, delivery area and dates — and confirm whether you can load them. The portal never shows customers' prices or contact details."
+      }
+    ],
+    "hire": [
+      {
+        "question": "Who actually does the work?",
+        "answer": "A vetted independent partner near your site, with its own machines, operators and crew. We arrange the job: we quote you, take your payment, send the job to partners, keep the record and only pay the partner once you've signed the work off."
+      },
+      {
+        "question": "Why can't I see a price for plant hire yet?",
+        "answer": "We only publish hire rates once at least two partners in a province have given us written rates. Until then, every request gets a written quote based on a partner's written quote for your job."
+      },
+      {
+        "question": "What does wet hire include?",
+        "answer": "The machine, an operator, fuel and the operator's PPE. A hire day is up to 8 machine hours; extra hours and standing time are only charged if they're in your quote or agreed in writing first. Transport to site is included where your quote says so."
+      },
+      {
+        "question": "Do I need an account?",
+        "answer": "Yes — you accept the quote and follow the job in your account, so create one with the same email you used for your request. It's free."
+      },
+      {
+        "question": "How do I pay?",
+        "answer": "By EFT, using the booking reference shown in your account once you accept the quote. The job is only sent to partners after your payment clears. More payment options will follow."
+      },
+      {
+        "question": "What if no partner can take my job?",
+        "answer": "We'll offer you other dates, or refund what you paid for that booking in full."
+      },
+      {
+        "question": "What is the arrival code?",
+        "answer": "A 6-digit code in your booking. When the crew arrives, show it to them; entering it starts the job and confirms they're on your site. Only open it once they're actually there — opening a new code cancels the old one."
+      },
+      {
+        "question": "Why can't I get the partner's phone number?",
+        "answer": "Neither side sees the other's contact details, and numbers or emails typed into booking messages are removed automatically. Keeping everything in the booking means we have the full record if anything goes wrong, and your payment stays protected."
+      },
+      {
+        "question": "What if the crew is late, the machine breaks down or the weather stops work?",
+        "answer": "Tell us in your booking messages straight away. We'll arrange a replacement machine, new dates or a refund for the time not worked — you're not charged for time lost because the partner's machine broke down."
+      },
+      {
+        "question": "What if I'm not happy with the work?",
+        "answer": "Raise a dispute in your booking while the job is in progress or within 48 hours of signing off. The partner isn't paid while a dispute is open; we review the job cards and messages and decide whether the partner is paid or you're refunded in full or in part."
+      },
+      {
+        "question": "Can I cancel?",
+        "answer": "You can decline a quote at no cost. After paying, you get a full refund if no partner has accepted yet. Once a partner has accepted, costs they've already incurred (such as transport) may be deducted — we'll tell you the amount first."
+      }
+    ]
+  },
+  "heroImages": [
+    {
+      "id": "quarry-vehicle",
+      "url": "https://images.unsplash.com/photo-1659362549741-c32157cc71f4?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Heavy earthmoving equipment working a quarry face",
+      "credit": "Gianluigi Marin / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "yellow-loader",
+      "url": "https://images.unsplash.com/photo-1659462391060-f9808509ca6a?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Yellow construction loader on site",
+      "credit": "Gianluigi Marin / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "tipper-truck-transit",
+      "url": "https://images.unsplash.com/photo-1686945127170-ae15deda7bcc?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Tipper truck in transit on an unpaved haul road",
+      "credit": "Lars Portjanow / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "stone-fragments",
+      "url": "https://images.unsplash.com/photo-1604178449672-3e7d72d5a09a?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Close-up of crushed stone fragments",
+      "credit": "Jon Moore / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "gravel-surface",
+      "url": "https://images.unsplash.com/photo-1657199926989-04cae721c772?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Close-up of a graded gravel surface",
+      "credit": "Joshua Hoehne / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "sand-pile-construction",
+      "url": "https://images.unsplash.com/photo-1686358244601-f6e65f67d4c6?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Aerial view of washed sand piles at a construction site",
+      "credit": "Iain / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "river-pebbles-closeup",
+      "url": "https://images.unsplash.com/photo-1597188702867-0a052cddba09?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Close-up of naturally rounded river pebbles in grey and brown tones",
+      "credit": "Fyre Willow / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "pale-dry-soil",
+      "url": "https://images.unsplash.com/photo-1606444695047-06a24fdb6f67?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Pale, dry cracked soil typical of agricultural land needing lime treatment",
+      "credit": "José Ignacio Pompé / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "drainage-gravel-closeup",
+      "url": "https://images.unsplash.com/photo-1779718814161-6a5e558a9875?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Close-up textured surface of grey and brown drainage gravel",
+      "credit": "Tuan Nguyen / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "excavator-yellow",
+      "url": "https://images.unsplash.com/photo-1580901369227-308f6f40bdeb?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Yellow tracked excavator with its bucket resting on loose rock",
+      "credit": "Gerold Hinzen / Unsplash",
+      "sourceUrl": null
+    },
+    {
+      "id": "demolition-bulldozer",
+      "url": "https://images.unsplash.com/photo-1677588508537-5106322c2d40?auto=format&fit=crop&w=1600&q=80",
+      "alt": "Excavator demolishing a house, with rubble across the site",
+      "credit": "Vincenzo Cassano / Unsplash",
+      "sourceUrl": null
+    }
+  ],
+  "contact": {
+    "phones": [
+      {
+        "label": "General Enquiries",
+        "number": "087 265 2505",
+        "tel": "+27872652505"
+      }
+    ],
+    "whatsapp": "27683676276",
+    "salesEmail": "sales@aaggregates.store",
+    "partnersEmail": "partners@besbpo.co.za",
+    "address": {
+      "line1": "2 Ncondo Place",
+      "line2": "Ridgeside Dr, Umhlanga Ridge",
+      "city": "Durban",
+      "province": "KwaZulu-Natal",
+      "postalCode": "4319",
+      "country": "South Africa"
+    },
+    "social": [
+      {
+        "platform": "Facebook",
+        "url": "https://facebook.com/share/1HgNpvXCRd/"
+      },
+      {
+        "platform": "Instagram",
+        "url": "https://instagram.com/besbpo_group"
+      },
+      {
+        "platform": "X",
+        "url": "https://x.com/BesbpoGroup"
+      },
+      {
+        "platform": "TikTok",
+        "url": "https://tiktok.com/@besbpo.group"
+      },
+      {
+        "platform": "WhatsApp",
+        "url": "https://wa.me/27683676276"
+      },
+      {
+        "platform": "Threads",
+        "url": "https://threads.net/@besbpo_group"
+      },
+      {
+        "platform": "YouTube",
+        "url": "https://youtube.com/@BesbpoGroup"
+      },
+      {
+        "platform": "Behance",
+        "url": "https://behance.net/besbpogroup"
+      }
+    ],
+    "corporateSiteUrl": "https://aggregated.besbpo.co.za",
+    "groupSiteUrl": "https://besbpo.co.za",
+    "legalEntity": {
+      "name": "Besbpo Group (Pty) Ltd",
+      "tradingAs": "Aggregated Aggregates",
+      "registrationNumber": "2026/490480/07"
+    }
+  }
+}

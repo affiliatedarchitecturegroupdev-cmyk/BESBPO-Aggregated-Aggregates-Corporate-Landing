@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-limestone font-body text-basalt antialiased;
+  }
+  ::selection {
+    @apply bg-ochre-gold text-basalt;
+  }
+  :focus-visible {
+    @apply outline-none ring-2 ring-ochre-gold ring-offset-2 ring-offset-limestone;
+  }
+}
+
+@layer components {
+  .container-site {
+    @apply mx-auto w-full max-w-site px-4 sm:px-6;
+  }
+  .eyebrow {
+    @apply font-mono text-[11px] uppercase tracking-[0.2em];
+  }
+  /* The brand's strata motif: thin bands of ground under a gold layer. */
+  .strata {
+    background-image: linear-gradient(
+      to bottom,
+      transparent 0 62%,
+      rgba(192, 138, 52, 0.95) 62% 68%,
+      rgba(220, 209, 189, 0.55) 68% 80%,
+      rgba(107, 101, 96, 0.35) 80% 90%,
+      rgba(28, 27, 26, 0.55) 90% 100%
+    );
+  }
+  .grain {
+    background-image: radial-gradient(rgba(28, 27, 26, 0.08) 1px, transparent 1px);
+    background-size: 14px 14px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Scroll reveal (components/Reveal.tsx): hidden only once JS has marked the page. */
+.js .reveal {
+  opacity: 0;
+  transform: translate3d(0, 24px, 0);
+  transition:
+    opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1) var(--reveal-delay, 0s),
+    transform 0.6s cubic-bezier(0.22, 1, 0.36, 1) var(--reveal-delay, 0s);
+}
+.js .reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .js .reveal {
+    opacity: 1;
+    transform: none;
+  }
+}
