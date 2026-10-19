@@ -32,7 +32,7 @@ const SLIDES: HeroSlide[] = [
   {
     eyebrow: "Building supplies",
     title: "Finish the build with the same order.",
-    body: "Doors and windows, fencing and security, water tanks and plumbing, ceilings and drywall, site tools and PPE, waterproofing and paint.",
+    body: "Doors and windows, fencing, plumbing, bathrooms and kitchens, electrical and solar, ceilings, tiles and flooring, hardware, boards and formwork.",
     image: image("sand-pile-construction"),
     storePath: "/departments",
     secondary: { label: "See building supplies", href: "/departments/#building-supplies" },
