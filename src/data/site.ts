@@ -187,13 +187,13 @@ export const DEPARTMENT_GROUPS = [
   { label: "Services & fit-out", slugs: ["electrical", "tiles-flooring", "bathroom-kitchen", "hardware-fasteners", "boards-formwork"] },
 ] as const;
 
-/** Photography used only on the corporate site (from the original corporate site), credited like the store's. */
+/** Photography used only on the corporate site, credited like the store's. */
 export const EXTRA_IMAGES = [
   {
-    id: "ready-mix-pour",
-    url: "https://images.unsplash.com/photo-1772852311587-329719989e2b?auto=format&fit=crop&w=1600&q=80",
-    alt: "Ready-mix concrete poured straight into formwork",
-    credit: "Brian J. Tromp / Unsplash",
-    sourceUrl: null,
+    id: "rebar-cage",
+    url: "/media/rebar-cage.webp",
+    alt: "Looking down the length of a reinforcing-steel cage on a construction site, against a blue sky",
+    credit: "Ermell / Wikimedia Commons, CC BY-SA 4.0",
+    sourceUrl: "https://commons.wikimedia.org/wiki/File:Baustelle-H%C3%B6lzla-Rebar-6228085.jpg",
   },
 ] as const;
