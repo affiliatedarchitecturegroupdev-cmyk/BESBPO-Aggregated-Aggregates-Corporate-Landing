@@ -25,7 +25,7 @@ const SLIDES: HeroSlide[] = [
     eyebrow: "Cement, ready-mix & steel",
     title: "Cement, concrete and steel on one order.",
     body: "Bagged and bulk cement, SANS 878 ready-mix by the mixer truck with pumps on request, and reinforcing and structural steel with cut & bend to your schedule.",
-    image: image("ready-mix-pour"),
+    image: image("rebar-cage"),
     storePath: "/ready-mix",
     secondary: { label: "Cement & concrete", href: "/departments/cement-concrete/" },
   },

@@ -1,6 +1,7 @@
 import { Mail, MapPin, MessageCircle, Phone } from "lucide-react";
 import Link from "next/link";
 import { Logo } from "@/components/Logo";
+import { SocialIcon, hasSocialIcon } from "@/components/SocialIcon";
 import { LaunchStoreButton } from "@/components/ui";
 import { NAV } from "@/data/site";
 import { STORE, formatAddress, storeLink, whatsappLink } from "@/lib/store";
@@ -89,12 +90,20 @@ export function Footer() {
           ))}
           <li className="pt-4">
             <p className="font-mono text-[10.5px] uppercase tracking-[0.18em] text-limestone/50">Follow Besbpo Group</p>
-            <div className="mt-2 flex flex-wrap gap-x-3 gap-y-1">
+            <div className="mt-3 flex flex-wrap gap-2">
               {contact.social
-                .filter((s) => s.platform !== "WhatsApp")
+                .filter((s) => hasSocialIcon(s.platform))
                 .map((s) => (
-                  <a key={s.platform} href={s.url} target="_blank" rel="noopener noreferrer" className="hover:text-ochre-gold">
-                    {s.platform}
+                  <a
+                    key={s.platform}
+                    href={s.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label={`Besbpo Group on ${s.platform}`}
+                    title={s.platform}
+                    className="flex h-9 w-9 items-center justify-center rounded-full border border-limestone/15 text-limestone/70 transition-colors hover:border-ochre-gold hover:text-ochre-gold focus-visible:border-ochre-gold focus-visible:text-ochre-gold"
+                  >
+                    <SocialIcon platform={s.platform} className="h-4 w-4" />
                   </a>
                 ))}
             </div>
